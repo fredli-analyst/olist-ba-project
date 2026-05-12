@@ -2,6 +2,7 @@
 
 **Analyst:** Fred Li | Business Analyst | Entry Level Project  
 **Dataset:** Olist Brazilian E-Commerce (2016–2018) | 100,000+ Orders
+
 **Target Roles:** Business Analyst 
 
 ---
